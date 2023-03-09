@@ -1,2 +1,2 @@
 # lbx-remotescripts
-Launchpad X remote scripts for abletong live
+Launchpad X remote scripts for ableton live
